@@ -1,1 +1,1 @@
-# Quick-Sort-Programe-n-java
+# Quick-Sort-Programe-in-java
